@@ -59,4 +59,6 @@ This is a simple Snake Game implemented using HTML, CSS, and JavaScript. The gam
    - You can accept suggestions by pressing `Tab` or `Enter`.
    - You can also open the command palette by pressing `Ctrl+Shift+P` or `Cmd+Shift+P` and search for "Copilot" to see more options.
 
+Any issues while setting up GitHub Copilot, contact me by email at [mani.ghahremani@port.ac.uk](mailto:mani.ghahremani@port.ac.uk) or on our [School Discord Server](http://soc.port.ac.uk/discord) (DrMani).
+
 Enjoy coding with GitHub Copilot!
