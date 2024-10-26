@@ -10,9 +10,7 @@ This is a simple Snake Game implemented using HTML, CSS, and JavaScript. The gam
 
 - Installation
 - Usage
-- Contributing
-- License
-- [GitHub Copilot Setup](#github-copilot-setup)
+- GitHub Copilot Setup
 
 ## Installation
 
