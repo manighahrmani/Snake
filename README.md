@@ -42,7 +42,7 @@ This is a simple Snake Game implemented using HTML, CSS, and JavaScript. The gam
 
 4. **Apply for the GitHub Student Developer Pack:**
    - Visit the [GitHub Student Developer Pack](https://education.github.com/pack) website.
-   - Upload the required information to verify your student status. Ideally, you should do this while on campus Wi-Fi (as they may check your location).
+   - Upload the required information to verify your student status. This requires you to upload a picture of your student card. The image should clearly show your name, the name of your university, and the current academic year. It should also be maximum 1 MB in size (use online tools to compress the image if needed). Ideally, you should do this while on campus Wi-Fi (as they may check your location).
    - Not that this process may take a few days to complete. You will receive an email once your application is approved.
 
 5. **Install GitHub Copilot Extension:**
