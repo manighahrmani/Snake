@@ -8,7 +8,7 @@ const UP = 38;
 const RIGHT = 39;
 const DOWN = 40;
 
-let snake, direction, food, gameOver;
+let snake, direction, food, gameOver, intervalId;
 
 function drawRect(x, y, color) {
   ctx.fillStyle = color;
@@ -62,6 +62,7 @@ function placeFood() {
 
 function update() {
   if (gameOver) {
+    clearInterval(intervalId);
     alert('Game Over');
     document.location.reload();
     return;
@@ -94,7 +95,7 @@ function init() {
   gameOver = false;
 
   document.addEventListener('keydown', changeDirection);
-  setInterval(update, 100);
+  intervalId = setInterval(update, 100);
 }
 
 init();
